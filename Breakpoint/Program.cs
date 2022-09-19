@@ -25,7 +25,7 @@ namespace Breakpoint
                 breakpoint = i.ToString();
                 Console.WriteLine(breakpoint);
             }
-            Console.WriteLine("Press any key to continue");
+            Console.WriteLine("Press any key to continue.");
             Console.ReadKey();
             
 
